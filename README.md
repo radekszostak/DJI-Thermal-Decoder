@@ -1,4 +1,7 @@
 # DJI-Thermal-Decoder
+## Funkcjonaności
+1. Konwersja termicznych zdjęć H20T do tiff.
+2. Kopiowanie danych exif.
 
 ## Uruchomienie
 1. Pobierz repozytorium pod tym linkiem: https://github.com/shocik/DJI-Thermal-Decoder/archive/refs/heads/main.zip
